@@ -7,3 +7,7 @@ git clone http://github.com/j41V/hyprland_dotfiles .config/hypr
 - waybar
 - kitty
 - swww
+
+# Fedora #
+sudo dnf copr enable alebastr/sway-extras
+sudo dnf install hyprland wofi waybar kitty swww
